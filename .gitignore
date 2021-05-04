@@ -1,2 +1,5 @@
 *.pyc
 *.sqlite3
+__pycache__
+.vscode/
+pybo/migrations/
